@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_deploy_gh/static/css/main.afba6087.css",
+    "main.js": "/react_deploy_gh/static/js/main.6cfafc6e.js",
+    "index.html": "/react_deploy_gh/index.html",
+    "main.afba6087.css.map": "/react_deploy_gh/static/css/main.afba6087.css.map",
+    "main.6cfafc6e.js.map": "/react_deploy_gh/static/js/main.6cfafc6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afba6087.css",
+    "static/js/main.6cfafc6e.js"
+  ]
+}
